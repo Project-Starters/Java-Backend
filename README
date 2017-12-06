@@ -1,0 +1,5 @@
+LINUX
+1. Insure java is installed
+2. in terminal cd src/
+3. javac Main.java
+4. java Main
